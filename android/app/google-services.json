@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "191679195595",
+    "project_id": "taha-c97e3",
+    "storage_bucket": "taha-c97e3.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:191679195595:android:48d1b0f5734fc9af4dee4e",
+        "android_client_info": {
+          "package_name": "com.example.fire_todo"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAB7E_HpsMiW8x6NvRcLK6Kjdg_PEWyuf0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
